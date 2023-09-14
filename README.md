@@ -4,7 +4,6 @@
 
 # Team Member  
 
-<img src="https://github.com/dong99u/Mapping101/assets/86235780/bb4673ce-5db6-428d-9f55-012fca7cadfb" width="70%"></img>
 ### Scraping Team  
 이호영, 이원석, 정찬혁, 백형준, 박동규, 김대현  
 
